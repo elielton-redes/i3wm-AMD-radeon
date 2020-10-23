@@ -7,3 +7,4 @@ Testado no Ubuntu bem deve funcionar em outras distros com o i3 dependências:
 (pulseaudio) para o controle do volume em teclas de atalho para notebooks amd, 
 (brightnessctl) esse é para o controle do brilho pode ser baixado aqui no github
 (nitrogen) usado para setar o wallpaper e torna-lo permanente.
+(ttf-mscorefonts) aqui é para ter uma fonte mais "bonita" que a padrão
